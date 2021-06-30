@@ -1,3 +1,2 @@
-# RSS_Reader
-Android mobile app for reading of RSS channels
 # noticias-rss
+Aplicacion de lectura de noticias RSS

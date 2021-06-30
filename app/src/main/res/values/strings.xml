@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Canales de noticias</string>
+
+    <string name="fragment_sources_name">Canales</string>
+    <string name="fragment_news_name">Noticias</string>
+    <string name="fragment_article_name">Artículo</string>
+
+    <string name="add_source_button">Agregar canal RSS</string>
+
+    <string name="activity_source_title">Mis canales RSS</string>
+
+    <string name="activity_source_dialog_title">Agregar nuevo canal RSS</string>
+    <string name="activity_source_dialog_neutral_button">Cancelar</string>
+    <string name="activity_source_dialog_positive_button">Guardar</string>
+    <string name="activity_source_dialog_edit_text_hint">Url del canal RSS</string>
+    <string name="activity_source_dialog_empty_address">La dirección RSS no puede estar vacía</string>
+    <string name="activity_source_dialog_address_is_not_available">Este canal RSS no está disponible, intenta con otro</string>
+    <string name="activity_source_dialog_address_is_saved">Tu canal RSS fue guardado</string>
+
+    <string name="activity_source_channel_deleted">El canal RSS fue borrado</string>
+</resources>
